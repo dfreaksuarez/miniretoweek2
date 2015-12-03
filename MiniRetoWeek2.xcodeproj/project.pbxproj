@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		4EB621E71C109081001F3EC1 /* MiniRetoWeek2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniRetoWeek2.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		4EB621E01C109061001F3EC1 = {
 			isa = PBXGroup;
 			children = (
+				4EB621E71C109081001F3EC1 /* MiniRetoWeek2.playground */,
 			);
 			sourceTree = "<group>";
 		};
